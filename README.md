@@ -1,6 +1,4 @@
-# Google Play Store Analytics Dashboard 📊
-
-This repository contains the source code and analysis for my Data Analyst internship project at NullClass. The project involves real-time analytics on Google Play Store data using Python, focusing on interactive visualizations and time-based logic integration using Plotly and Dash.
+# 📄 Internship Report: Real-Time Google Play Store Data Analytics Using Python
 
 ---
 
